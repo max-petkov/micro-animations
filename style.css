@@ -12,3 +12,22 @@ body {
   align-items: center;
   font-family: "Poppins", sans-serif;
 }
+
+.d-flex {
+  display: flex;
+  align-items: center;
+  gap: 48px;
+  padding: 24px 0;
+  cursor: pointer;
+}
+
+.container {
+  background-color: #fff;
+  padding: 80px;
+  border-radius: 24px;
+  border: none;
+}
+
+svg {
+  overflow: visible;
+}
